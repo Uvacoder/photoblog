@@ -2,6 +2,11 @@
 
 # len.to
 
+- https://github.com/bndw/len.to
+
+- https://len.to
+
+
 My personal photo blog.
 
 <br>
